@@ -88,7 +88,7 @@
 }
 .banner {
     min-height: 100vh;
-    background-image: url(/images/desktop/image-header.jpg);
+    background-image: url(./images/desktop/image-header.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
